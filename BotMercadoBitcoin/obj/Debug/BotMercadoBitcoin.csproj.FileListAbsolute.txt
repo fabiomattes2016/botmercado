@@ -1,0 +1,13 @@
+C:\Users\gpnet\Documents\CSharp\BotMercadoBitcoin\BotMercadoBitcoin\bin\Debug\BotMercadoBitcoin.exe.config
+C:\Users\gpnet\Documents\CSharp\BotMercadoBitcoin\BotMercadoBitcoin\bin\Debug\BotMercadoBitcoin.exe
+C:\Users\gpnet\Documents\CSharp\BotMercadoBitcoin\BotMercadoBitcoin\bin\Debug\BotMercadoBitcoin.pdb
+C:\Users\gpnet\Documents\CSharp\BotMercadoBitcoin\BotMercadoBitcoin\obj\Debug\BotMercadoBitcoin.csproj.AssemblyReference.cache
+C:\Users\gpnet\Documents\CSharp\BotMercadoBitcoin\BotMercadoBitcoin\obj\Debug\BotMercadoBitcoin.csproj.SuggestedBindingRedirects.cache
+C:\Users\gpnet\Documents\CSharp\BotMercadoBitcoin\BotMercadoBitcoin\obj\Debug\BotMercadoBitcoin.csproj.CoreCompileInputs.cache
+C:\Users\gpnet\Documents\CSharp\BotMercadoBitcoin\BotMercadoBitcoin\obj\Debug\BotMercadoBitcoin.exe
+C:\Users\gpnet\Documents\CSharp\BotMercadoBitcoin\BotMercadoBitcoin\obj\Debug\BotMercadoBitcoin.pdb
+C:\Users\gpnet\Documents\CSharp\BotMercadoBitcoin\BotMercadoBitcoin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gpnet\Documents\CSharp\BotMercadoBitcoin\BotMercadoBitcoin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gpnet\Documents\CSharp\BotMercadoBitcoin\BotMercadoBitcoin\obj\Debug\BotMercadoBitcoin.csproj.CopyComplete
+C:\Users\gpnet\Documents\CSharp\BotMercadoBitcoin\BotMercadoBitcoin\bin\Debug\MercadoBitcoin.API.Framework.dll
+C:\Users\gpnet\Documents\CSharp\BotMercadoBitcoin\BotMercadoBitcoin\bin\Debug\PagCriptoAPI.dll
